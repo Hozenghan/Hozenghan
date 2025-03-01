@@ -5,15 +5,7 @@
         </td>
     </tr>
 </table>
-<table>
-    <tr>
-
-
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hozenghan&theme=github&utcOffset=8" align="right" /></center>
-   
-    </tr>
-</table>
-
+- 🔭 I’m currently working on CS
 <!--
 **Hozenghan/Hozenghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
