@@ -7,9 +7,7 @@
 </table>
 <table>
     <tr>
-        <td >
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hozenghan&theme=vue" ></center>
-        </td>
+
         <td >
             <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hozenghan&theme=github&utcOffset=8" align="right" /></center>
         </td>
