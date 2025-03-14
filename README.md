@@ -5,7 +5,7 @@
         </td>
     </tr>
 </table>
-- 🔭 I’m currently working on CS
+- 🔭 I’m a SCU student currently working on CS
 <!--
 **Hozenghan/Hozenghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
