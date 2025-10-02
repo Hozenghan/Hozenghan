@@ -5,7 +5,8 @@
         </td>
     </tr>
 </table>
-- 🔭 I’m a SCU student currently working on CS
+- 🔭 I’m a SCU student currently working on CS, with research interests in CG & CAD.
+- 🎓 I will pursue my PhD at the School of Software, Tsinghua University.
 <!--
 **Hozenghan/Hozenghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
