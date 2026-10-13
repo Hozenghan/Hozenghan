@@ -1,6 +1,6 @@
-- 🔭 I’m a SCU student currently working on CS.<br>
-- 🧩 Research interests: CG & CAD.<br>
-- 🎓 I will pursue my PhD at the School of Software, Tsinghua University.
+- 🎓 I’m currently a PhD student at the School of Software, Tsinghua University.<br>
+- 🔭 My research focuses on CG and CAD.<br>
+- 🧩 Current research interests: CAD Generation.<br>
 <!--
 **Hozenghan/Hozenghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
