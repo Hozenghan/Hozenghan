@@ -1,4 +1,4 @@
-- 🎓 I’m currently a PhD student at the School of Software, Tsinghua University.<br>
+- 🎓 I’m a PhD student at the School of Software, Tsinghua University.<br>
 - 🔭 My research focuses on CG and CAD.<br>
 - 🧩 Current research interests: CAD Generation.<br>
 <!--
